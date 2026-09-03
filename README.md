@@ -18,7 +18,7 @@ I enjoy learning new technologies, building projects from scratch and improving 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,git,github,js,ts,react,rust,sql" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,expo,vite,cs,dotnet,rust,tauri,sqlserver,git,github,vscode,androidstudio" />
   </a>
 </p>
 
