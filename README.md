@@ -17,7 +17,7 @@ I enjoy learning new technologies, building projects from scratch and improving 
 ## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,reactnative,expo,vite,cs,dotnet,rust,tauri,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,react-native,expo,vite,cs,dotnet,rust,tauri,sqlserver" />
 </p>
 
 ## Currently Exploring
