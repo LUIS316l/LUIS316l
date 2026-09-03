@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">🩷 Hi, I'm Luis Eduardo R.A.</h1>
 
-<!--
-**LUIS316l/LUIS316l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Software Developer • Backend Developer • Mobile Development</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🩷 About Me
+
+💻 Building modern apps applications  
+
+## 💗 Featured Projects
+
+### 🤖 AI Interview Platform
+
+AI-powered platform for practicing job interviews.
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,python,nodejs,js,html,css,git" />
+</p>
